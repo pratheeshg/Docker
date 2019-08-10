@@ -1,2 +1,0 @@
-2019/08/10 10:32:31 [error] 6#6: *1 open() "/var/www/favicon.ico" failed (2: No such file or directory), client: 172.18.0.1, server: pratheesh.com, request: "GET /favicon.ico HTTP/1.1", host: "localhost:8001", referrer: "http://localhost:8001/"
-2019/08/10 10:39:21 [error] 6#6: *1 open() "/var/www/favicon.ico" failed (2: No such file or directory), client: 172.19.0.1, server: pratheesh.com, request: "GET /favicon.ico HTTP/1.1", host: "pratheesh.com:8001", referrer: "http://pratheesh.com:8001/"

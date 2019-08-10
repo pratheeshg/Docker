@@ -1,2 +1,2 @@
 .git
-logs/*.log
+logs/nginx/*.log
